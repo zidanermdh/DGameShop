@@ -1,2 +1,0 @@
-# DGameShop
-belum fix
